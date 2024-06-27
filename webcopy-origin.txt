@@ -1,0 +1,132 @@
+Uri: http://invi-studio.kz/svadbanurzhanalua
+File Name: C:\Downloaded Web Sites\invi-studio.kz\svadbanurzhanalua-1.html
+Content Type: text/html
+
+Uri: http://invi-studio.kz/tilda-blocks-page35527368.min.css?t=1713041709
+File Name: C:\Downloaded Web Sites\invi-studio.kz\tilda-blocks-page35527368.min-1.css
+Content Type: text/css
+
+Uri: http://invi-studio.kz/tilda-blocks-page35527368.min.js?t=1713041709
+File Name: C:\Downloaded Web Sites\invi-studio.kz\tilda-blocks-page35527368.min-1.js
+Content Type: application/javascript
+
+Uri: https://dl.dropboxusercontent.com/s/dgiicmx10wpxgj7/Ingrid_Michaelson_-_Everybody_(musmore.com).mp3?dl=0
+File Name: C:\Downloaded Web Sites\invi-studio.kz\s\dgiicmx10wpxgj7\Ingrid_Michaelson_-_Everybody_(musmore.com).mp3
+Content Type: audio/mpeg
+
+Uri: https://invi-studio.kz/svadbanurzhanalua
+File Name: C:\Downloaded Web Sites\invi-studio.kz\svadbanurzhanalua.html
+Content Type: text/html
+
+Uri: https://invi-studio.kz/tilda-blocks-page35527368.min.css?t=1713041709
+File Name: C:\Downloaded Web Sites\invi-studio.kz\tilda-blocks-page35527368.min.css
+Content Type: text/css
+
+Uri: https://invi-studio.kz/tilda-blocks-page35527368.min.js?t=1713041709
+File Name: C:\Downloaded Web Sites\invi-studio.kz\tilda-blocks-page35527368.min.js
+Content Type: application/javascript
+
+Uri: https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js
+File Name: C:\Downloaded Web Sites\invi-studio.kz\js\tilda-fallback-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/css/highlight.min.css
+File Name: C:\Downloaded Web Sites\invi-studio.kz\css\highlight.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.pro/css/tilda-animation-2.0.min.css
+File Name: C:\Downloaded Web Sites\invi-studio.kz\css\tilda-animation-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.pro/css/tilda-cover-1.0.min.css
+File Name: C:\Downloaded Web Sites\invi-studio.kz\css\tilda-cover-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.pro/css/tilda-forms-1.0.min.css
+File Name: C:\Downloaded Web Sites\invi-studio.kz\css\tilda-forms-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.pro/css/tilda-grid-3.0.min.css
+File Name: C:\Downloaded Web Sites\invi-studio.kz\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.pro/img/tildacopy.png
+File Name: C:\Downloaded Web Sites\invi-studio.kz\img\tildacopy.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.pro/img/tildafavicon.ico
+File Name: C:\Downloaded Web Sites\invi-studio.kz\img\tildafavicon.ico
+Content Type: image/x-icon
+
+Uri: https://static.tildacdn.pro/js/highlight.min.js
+File Name: C:\Downloaded Web Sites\invi-studio.kz\js\highlight.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/js/jquery-1.10.2.min.js
+File Name: C:\Downloaded Web Sites\invi-studio.kz\js\jquery-1.10.2.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/js/tilda-animation-2.0.min.js
+File Name: C:\Downloaded Web Sites\invi-studio.kz\js\tilda-animation-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/js/tilda-animation-ext-1.0.min.js
+File Name: C:\Downloaded Web Sites\invi-studio.kz\js\tilda-animation-ext-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/js/tilda-animation-sbs-1.0.min.js
+File Name: C:\Downloaded Web Sites\invi-studio.kz\js\tilda-animation-sbs-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/js/tilda-cover-1.0.min.js
+File Name: C:\Downloaded Web Sites\invi-studio.kz\js\tilda-cover-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/js/tilda-events-1.0.min.js
+File Name: C:\Downloaded Web Sites\invi-studio.kz\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/js/tilda-forms-1.0.min.js
+File Name: C:\Downloaded Web Sites\invi-studio.kz\js\tilda-forms-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/js/tilda-lazyload-1.0.min.js
+File Name: C:\Downloaded Web Sites\invi-studio.kz\js\tilda-lazyload-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/js/tilda-map-1.0.min.js
+File Name: C:\Downloaded Web Sites\invi-studio.kz\js\tilda-map-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/js/tilda-menu-1.0.min.js
+File Name: C:\Downloaded Web Sites\invi-studio.kz\js\tilda-menu-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/js/tilda-polyfill-1.0.min.js
+File Name: C:\Downloaded Web Sites\invi-studio.kz\js\tilda-polyfill-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/js/tilda-scripts-3.0.min.js
+File Name: C:\Downloaded Web Sites\invi-studio.kz\js\tilda-scripts-3.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/js/tilda-skiplink-1.0.min.js
+File Name: C:\Downloaded Web Sites\invi-studio.kz\js\tilda-skiplink-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/js/tilda-zero-1.1.min.js
+File Name: C:\Downloaded Web Sites\invi-studio.kz\js\tilda-zero-1.1.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/js/tilda-zero-fixed-1.0.min.js
+File Name: C:\Downloaded Web Sites\invi-studio.kz\js\tilda-zero-fixed-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/js/tilda-zero-scale-1.0.min.js
+File Name: C:\Downloaded Web Sites\invi-studio.kz\js\tilda-zero-scale-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://thb.tildacdn.pro/tild3164-6239-4161-b939-316266623665/-/resizeb/20x/photo.png
+File Name: C:\Downloaded Web Sites\invi-studio.kz\tild3164-6239-4161-b939-316266623665\-\resizeb\20x\photo.png
+Content Type: image/png
+
